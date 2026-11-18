@@ -4,6 +4,8 @@ Starting cutting parameters for fiber laser cutting of sheet metal: mild steel, 
 
 The same numbers are published on [sbmlaserhelp.com](https://sbmlaserhelp.com/answers/) and in the [cutting parameters table on sbmlaser.com](https://sbmlaser.com/our-services/cutting-parameters/), and are used by the SBM Laser Help app for laser cutting operators. Every row links to the matching page on sbmlaserhelp.com.
 
+Also on Hugging Face: [SBMLaserHelp/fiber-laser-cutting-parameters](https://huggingface.co/datasets/SBMLaserHelp/fiber-laser-cutting-parameters).
+
 ## Files
 
 | File | Format |
