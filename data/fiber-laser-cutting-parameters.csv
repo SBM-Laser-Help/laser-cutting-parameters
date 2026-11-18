@@ -1,0 +1,1129 @@
+laser_power_w,material,thickness_mm,assist_gas,gas_pressure_bar,speed_min_m_min,speed_max_m_min,power_percent,nozzle,focus_mm,cutting_height_min_mm,cutting_height_max_mm,source_setup,page_url
+500,carbon_steel,1,N2/Air,14,10,12,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+500,carbon_steel,2,O2,14,3.2,3.8,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+500,carbon_steel,3,O2,14,2,2.2,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+500,carbon_steel,4,O2,14,1.5,1.6,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+500,carbon_steel,5,O2,14,0.9,1.1,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+500,carbon_steel,6,O2,14,0.6,0.7,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+500,stainless_steel,1,N2/Air,14,11,13,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+500,stainless_steel,2,N2/Air,14,2.6,2.8,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+500,stainless_steel,3,N2/Air,14,0.9,1.1,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+500,stainless_steel,4,N2/Air,14,0.5,0.6,100,,,,,"Source model: 500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+500,aluminum,1,N2/Air,14,2.5,2.7,100,,,,,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/aluminium/
+500,brass,1,N2/Air,14,2.3,2.5,100,,,,,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+1000,carbon_steel,0.8,N2/Air,11,19,19,100,,,,,Source model: Max MFSC-1000X QBH,https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,1,N2/Air,14,20,22,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel-1mm-1000w/
+1000,carbon_steel,2,N2/Air,14,6,7,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,3,O2,0.8,2.8,3,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,4,O2,0.8,2.2,2.4,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,5,O2,0.8,1.5,1.7,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,6,O2,0.8,1.2,1.4,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,8,O2,0.8,1,1.1,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,9,N2/Air,16,0.6,0.6,100,,,,,Hot-rolled steel (mixed gas). Source model: 1000W,https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,10,O2,0.8,0.75,0.85,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,12,O2,0.8,0.6,0.65,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1000,carbon_steel,14,N2/Air,16,0.07,0.07,100,,,,,Cold-rolled steel. Source model: 1000W,https://sbmlaserhelp.com/answers/mild-steel/
+1000,stainless_steel,0.8,N2/Air,16,20,20,100,,,,,Source model: Max MFSC-1000X QBH,https://sbmlaserhelp.com/answers/stainless-steel/
+1000,stainless_steel,1,N2/Air,14,21,23,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel-1mm-1000w/
+1000,stainless_steel,2,N2/Air,14,6.5,7,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel-2mm-1000w/
+1000,stainless_steel,3,N2/Air,14,2.3,2.5,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel-3mm-1000w/
+1000,stainless_steel,4,N2/Air,14,1.4,1.6,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+1000,stainless_steel,5,N2/Air,14,0.6,0.7,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+1000,stainless_steel,6,N2/Air,14,0.5,0.6,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+1000,aluminum,0.8,N2/Air,16,19,19,100,,,,,Source model: Max MFSC-1000X QBH,https://sbmlaserhelp.com/answers/aluminium/
+1000,aluminum,1,N2/Air,14,15,17,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+1000,aluminum,2,N2/Air,14,3.5,4,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+1000,aluminum,3,N2/Air,14,1.4,1.6,100,,,,,"Source model: 1000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+1000,brass,1,N2/Air,14,13,15,100,,,,,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+1000,brass,2,N2/Air,14,3,3.5,100,,,,,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+1000,brass,3,N2/Air,14,0.9,1.1,100,,,,,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+1500,carbon_steel,1,N2/Air,16,20,20,100,1.5S,0,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,1.5,O2,4,9,9,100,1.5S,2.8,0.5,0.5,Cold-rolled steel. Source model: 1500W,https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,2,O2,2,5,5,100,1.2D,3,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,3,O2,0.6,3.6,3.6,100,1.2D,3,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,4,O2,0.6,2.5,2.5,100,1.2D,3,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,5,O2,0.6,1.8,1.8,100,1.2D,3,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,6,O2,0.6,1.4,1.4,100,1.5D,3,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,7,O2,0.6,1.56,1.56,100,1.2D,1.8,0.6,0.6,"Source model: IPG 1500W, Head: OSPRI",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,8,O2,0.6,1.2,1.2,100,1.5D,3,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,10,O2,0.6,1,1,100,2.0D,2.5,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,12,O2,0.6,0.8,0.8,100,2.5D,2.5,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,14,O2,0.6,0.65,0.65,100,3.0D,2.5,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,carbon_steel,16,O2,0.6,0.5,0.5,100,3.0D,2.5,0.7,1,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+1500,stainless_steel,1,N2/Air,16,20,20,100,1.5S,0,0.5,0.7,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+1500,stainless_steel,2,N2/Air,16,7,7,100,2.0S,-1,0.5,0.7,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+1500,stainless_steel,3,N2/Air,16,4.5,4.5,100,2.5S,-1.5,0.5,0.7,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+1500,stainless_steel,4,N2/Air,16,2.5,2.5,100,2.0S,-2,0.6,0.6,Source model: Raycus 1500W,https://sbmlaserhelp.com/answers/stainless-steel/
+1500,stainless_steel,5,N2/Air,16,1.5,1.5,100,3.0S,-2.5,0.5,0.7,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+1500,stainless_steel,6,N2/Air,16,0.8,0.8,100,3.0S,-3,0.5,0.7,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+1500,aluminum,1,N2/Air,16,18,18,100,1.5S,0,0.4,0.7,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+1500,aluminum,2,N2/Air,16,6,6,100,2.0S,-1,0.4,0.7,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+1500,aluminum,3,N2/Air,16,2.5,2.5,100,2.5S,-1.5,0.4,0.7,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+1500,aluminum,4,N2/Air,16,0.8,0.8,100,3.0S,-2,0.4,0.7,"Source model: 1500W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+1500,aluminum,5,N2/Air,16,0.61,0.61,100,2.5S,-2.2,0.6,0.6,"Source model: IPG 1500W, Head: Raytools",https://sbmlaserhelp.com/answers/aluminium/
+1500,brass,1,N2/Air,16,15,15,100,1.5S,0,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+1500,brass,2,N2/Air,16,5,5,100,2.0S,-1,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+1500,brass,3,N2/Air,16,1.8,1.8,100,2.5S,-1.5,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+1500,brass,4,N2/Air,16,1,1,100,3.0S,-2,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+2000,carbon_steel,1,N2/Air,14,25,25,100,1.5S,0,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel-1mm-2000w/
+2000,carbon_steel,2,O2,1.6,5.2,5.2,100,1.0D,3,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel-2mm-2000w/
+2000,carbon_steel,3,O2,0.6,4.2,4.2,100,1.0D,3,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,4,O2,0.6,3,3,100,1.0D,3,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,5,O2,0.6,2.2,2.2,100,1.2D,3,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,6,O2,0.6,1.8,1.8,100,1.2D,3,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,8,O2,0.5,1.3,1.3,100,2.0D,2.5,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,10,O2,0.5,1.1,1.1,100,2.0D,2.5,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,12,O2,0.5,0.9,0.9,100,2.5D,2.5,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,14,O2,0.5,0.8,0.8,100,3.0D,2.5,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,16,O2,0.6,0.7,0.7,95,3.5D,2.5,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,18,O2,0.6,0.5,0.5,95,4.0D,3,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,carbon_steel,20,O2,0.6,0.4,0.4,95,4.0D,3,0.7,1,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/mild-steel/
+2000,stainless_steel,1,N2/Air,16,28,28,100,1.5S,0,0.5,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+2000,stainless_steel,2,N2/Air,16,10,10,100,2.0S,-1,0.5,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+2000,stainless_steel,3,N2/Air,16,5,5,100,2.0S,-1.5,0.5,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+2000,stainless_steel,4,N2/Air,16,3,3,100,2.5S,-2,0.5,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+2000,stainless_steel,5,N2/Air,16,2,2,100,3.0S,-2.5,0.5,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+2000,stainless_steel,6,N2/Air,16,1.5,1.5,100,3.0S,-3,0.5,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+2000,stainless_steel,8,N2/Air,16,0.6,0.6,100,3.0S,-4,0.5,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/stainless-steel/
+2000,aluminum,1,N2/Air,16,20,20,100,1.5S,0,0.4,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+2000,aluminum,2,N2/Air,16,10,10,100,2.0S,-1,0.4,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+2000,aluminum,3,N2/Air,16,4,4,100,2.0S,-1.5,0.4,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+2000,aluminum,4,N2/Air,16,1.5,1.5,100,2.5S,-2,0.4,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+2000,aluminum,5,N2/Air,16,0.9,0.9,100,3.0S,-2.5,0.4,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+2000,aluminum,6,N2/Air,16,0.6,0.6,100,3.0S,-3,0.4,0.7,"Source model: 2000W(50u), Cutting head focal length: Collimating 100/Focal 125",https://sbmlaserhelp.com/answers/aluminium/
+2000,brass,1,N2/Air,16,18,18,100,1.5S,0,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+2000,brass,2,N2/Air,16,8,8,100,2.0S,-1,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+2000,brass,3,N2/Air,16,3,3,100,2.5S,-1.5,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+2000,brass,4,N2/Air,16,1.3,1.3,100,3.0S,-2,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+2000,brass,5,N2/Air,16,0.8,0.8,100,3.0S,-2.5,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+2000,brass,6,N2/Air,16,0.4,0.4,100,3.5S,-3,0.3,0.5,Make sure your laser source has back-reflection protection — there is a risk of equipment failure due to back-reflection!,https://sbmlaserhelp.com/answers/brass/
+2000,copper,1,O2,12,21,21,100,3.0S,-1,0.5,0.5,Source model: Max Single module MFSC-2000X,https://sbmlaserhelp.com/answers/copper/
+2000,copper,2,O2,12,6,6,100,3.0S,-1,0.5,0.5,Source model: Max Single module MFSC-2000X,https://sbmlaserhelp.com/answers/copper/
+2000,copper,3,O2,14,2.5,2.5,100,3.0S,-2,0.5,0.5,Source model: Max Single module MFSC-2000X,https://sbmlaserhelp.com/answers/copper/
+3000,carbon_steel,1,N2/Air,10,28,35,100,1.5S,0,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,2,O2,1.6,3.8,4.2,70,1.0D,3,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-2mm-3000w/
+3000,carbon_steel,2,N2/Air,10,16,20,100,2.0S,0,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-2mm-3000w/
+3000,carbon_steel,3,O2,0.6,3.2,3.6,70,1.0D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-3mm-3000w/
+3000,carbon_steel,4,O2,0.6,3,3.2,80,1.0D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-4mm-3000w/
+3000,carbon_steel,5,O2,0.6,2.7,3,100,1.2D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,6,O2,0.6,2.2,2.5,100,1.2D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-6mm-3000w/
+3000,carbon_steel,7,O2,0.52,2.2,2.2,90,1.0D,3.8,0.6,0.6,Source model: MAX 3000W,https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,8,O2,0.6,1.8,2.2,100,1.2D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,10,O2,0.6,1,1.3,100,1.2D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-10mm-3000w/
+3000,carbon_steel,11,O2,0.6,0.55,0.55,80,4.0D,4,0.8,0.8,Source model: Raycus 3000W,https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,12,O2,0.6,0.9,1,80,3.0D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-12mm-3000w/
+3000,carbon_steel,14,O2,0.6,0.8,0.9,80,3.0D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,15,O2,0.65,0.8,0.8,55,3.5,2.5,1,1,Source model: Raycus 3000W,https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,16,O2,0.6,0.6,0.7,80,3.5D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,18,O2,0.6,0.5,0.6,80,4.0D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,20,O2,0.6,0.4,0.55,80,4.0D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,22,O2,0.6,0.45,0.5,80,4.0D,4,0.7,1,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,25,O2,0.8,0.54,0.54,100,4.0,4,0.8,0.8,Source model: Raycus 3000W,https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,carbon_steel,26,O2,0.8,0.23,0.23,90,5.0,4,1.2,1.2,"Source model: 3000W, Material: Q235",https://sbmlaserhelp.com/answers/mild-steel-3000w/
+3000,stainless_steel,1,N2,10,28,35,100,1.5S,0,0.5,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel-3000w/
+3000,stainless_steel,2,N2,12,18,24,100,2.0S,0,0.5,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel-2mm-3000w/
+3000,stainless_steel,3,N2,12,7,10,100,2.5S,-0.5,0.5,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel-3mm-3000w/
+3000,stainless_steel,4,N2,14,5,6.5,100,2.5S,-1.5,0.5,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel-3000w/
+3000,stainless_steel,5,N2,14,3,3.6,100,3.0S,-2.5,0.5,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel-3000w/
+3000,stainless_steel,6,N2,14,2,2.7,100,3.0S,-3,0.5,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel-3000w/
+3000,stainless_steel,8,N2,16,1,1.2,100,3.5S,-4.5,0.5,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel-3000w/
+3000,stainless_steel,10,N2,16,0.5,0.6,100,4.0S,-6,0.5,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel-3000w/
+3000,stainless_steel,16,N2/Air,16,0.3,0.3,100,3.5S,-10,0.5,0.5,"Source model: MAX 3000W, Grade: 304",https://sbmlaserhelp.com/answers/stainless-steel-3000w/
+3000,aluminum,1,N2,12,25,30,100,1.5S,0,0.4,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium-1mm-3000w/
+3000,aluminum,2,N2,12,15,18,100,2.0S,0,0.4,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium-2mm-3000w/
+3000,aluminum,3,N2,14,7,8,100,2.0S,-1,0.4,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium-3mm-3000w/
+3000,aluminum,4,N2,14,5,6,100,2.5S,-2,0.4,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium-4mm-3000w/
+3000,aluminum,5,N2,16,2.5,3,100,3.0S,-3,0.4,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium-3000w/
+3000,aluminum,6,N2,16,1.5,2,100,3.0S,-3.5,0.4,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium-3000w/
+3000,aluminum,7,N2/Air,16,0.3,0.3,100,3.0S,-4,0.5,0.5,"Source model: Raycus 3000W, Head: Raytools BM111",https://sbmlaserhelp.com/answers/aluminium-3000w/
+3000,aluminum,8,N2,16,0.6,0.7,100,3.5S,-4,0.4,0.7,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium-3000w/
+3000,aluminum,10,N2/Air,16,0.4,0.4,100,5.0S,-5,0.6,0.6,"Source model: MAX MaxSZ3000W, Head: NC30A, Grade: 5052",https://sbmlaserhelp.com/answers/aluminium-3000w/
+3000,brass,1,N2,12,20,28,100,1.5S,0,0.3,0.5,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass-1mm-3000w/
+3000,brass,2,N2,12,10,15,100,2.0S,0,0.3,0.5,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass-2mm-3000w/
+3000,brass,3,N2,14,5,6,100,2.5S,-1,0.3,0.5,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass-3mm-3000w/
+3000,brass,4,N2,14,2.5,3,100,3.0S,-2,0.3,0.5,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass-3000w/
+3000,brass,5,N2,14,1.8,2.2,100,3.0S,-2.5,0.3,0.5,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass-3000w/
+3000,brass,6,N2,16,0.8,1,100,3.0S,-3,0.3,0.5,"Source model: RFL-3000(50u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass-3000w/
+3000,copper,1,O2,12,26.5,26.5,100,3.0S,-1,0.5,0.5,Source model: MAX MFSC-3000X-50um,https://sbmlaserhelp.com/answers/copper-3000w/
+3000,copper,2,O2,5,1.8,1.8,100,1.8S,-1,0.6,0.6,Source model: Raycus 3000W,https://sbmlaserhelp.com/answers/copper-3000w/
+3000,copper,3,O2,13,3.75,3.75,100,3.0S,-2,0.5,0.5,Source model: MAX MFSC-3000X-50um,https://sbmlaserhelp.com/answers/copper-3000w/
+3000,copper,4,O2,10,0.6,0.6,100,4.0S,-4.2,0.8,0.8,Source model: Raycus 3000W,https://sbmlaserhelp.com/answers/copper-3000w/
+4000,carbon_steel,1,N2/Air,10,28,35,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,2,N2/Air,10,12,15,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,3,O2,0.6,4,4.5,45,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,3,N2/Air,10,8,12,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,4,O2,0.6,3,3.5,60,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,5,O2,0.6,2.5,3,60,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,6,O2,0.6,2.5,2.8,75,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,8,O2,0.6,2,2.3,90,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,10,O2,0.6,1.8,2,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,12,O2,0.5,1,1.2,55,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,14,O2,0.5,0.9,1,55,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,16,O2,0.5,0.7,0.9,65,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,18,O2,0.5,0.6,0.7,65,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,20,O2,0.5,0.55,0.65,65,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,22,O2,0.5,0.5,0.6,70,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,carbon_steel,25,O2,0.5,0.5,0.5,75,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/mild-steel/
+4000,stainless_steel,1,N2,10,30,40,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,2,N2,12,15,20,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,3,N2,12,10,12,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,4,N2,12,6,7,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,5,N2,14,4,4.5,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,6,N2,14,3,3.5,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,8,N2,14,1.5,1.8,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,10,N2,16,1,1.2,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,12,N2,16,0.8,0.8,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,14,N2/Air,16,0.7,0.7,100,,,,,Source model: MAX MFSC-4000X-50um,https://sbmlaserhelp.com/answers/stainless-steel/
+4000,stainless_steel,16,N2/Air,16,0.4,0.4,100,,,,,Source model: MAX MFSC-4000X-50um,https://sbmlaserhelp.com/answers/stainless-steel/
+4000,aluminum,1,N2,12,25,30,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium/
+4000,aluminum,2,N2,12,16,20,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium/
+4000,aluminum,3,N2,14,10,13,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium/
+4000,aluminum,4,N2,14,6,7,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium/
+4000,aluminum,5,N2,14,4,5,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium/
+4000,aluminum,6,N2,16,2.5,3,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium/
+4000,aluminum,8,N2,16,1,1.3,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium/
+4000,aluminum,10,N2,16,0.8,0.8,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/aluminium/
+4000,aluminum,12,N2/Air,16,0.7,0.7,100,,,,,Source model: MAX MFSC-4000X-50um,https://sbmlaserhelp.com/answers/aluminium/
+4000,brass,1,N2,12,25,28,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass/
+4000,brass,2,N2,12,12,15,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass/
+4000,brass,3,N2,14,7,8,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass/
+4000,brass,4,N2,14,4,5,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass/
+4000,brass,5,N2,14,2.5,3,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass/
+4000,brass,6,N2,16,2,2.5,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass/
+4000,brass,8,N2,16,0.8,1,100,,,,,"Source model: RFL-4000(100u), Cutting head focal length: Collimating 100/Focal 150",https://sbmlaserhelp.com/answers/brass/
+4000,copper,1,O2,10,28,28,100,,,,,Source model: MAX MFSC-4000X-50um,https://sbmlaserhelp.com/answers/copper/
+4000,copper,2,O2,12,11.5,11.5,100,,,,,Source model: MAX MFSC-4000X-50um,https://sbmlaserhelp.com/answers/copper/
+4000,copper,3,O2,12,6,6,100,,,,,Source model: MAX MFSC-4000X-50um,https://sbmlaserhelp.com/answers/copper/
+4000,copper,4,O2,14,2.5,2.5,100,,,,,Source model: MAX MFSC-4000X-50um,https://sbmlaserhelp.com/answers/copper/
+6000,carbon_steel,1,N2/Air,12,35,45,100,1.5S,0,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,2,N2/Air,12,20,25,100,2.0S,-1,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,3,O2,0.6,3.5,4.2,40,1.2E,3,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,3,N2/Air,14,12,14,100,2.0S,-1.5,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,4,O2,0.6,3.3,3.8,40,1.2E,3,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,4,N2/Air,14,8,10,100,2.0S,-2,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,5,O2,0.6,3,3.6,50,1.2E,3,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,5,N2/Air,16,6,7,100,3.0S,-2.5,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,6,O2,0.6,2.7,3.2,55,1.2E,3,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,6,N2/Air,16,5,6,100,3.5S,-3,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,8,O2,0.6,2.2,2.5,70,1.2E,3,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,10,O2,0.6,2,2.3,92,1.2E,4,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,12,O2,0.6,0.9,1,37,3.0D,2.5,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,14,O2,0.6,0.8,0.9,37,3.5D,2.5,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,16,O2,0.6,0.8,0.9,37,4.0D,2.5,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,18,O2,0.6,0.65,0.75,37,4.0D,2.5,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,20,O2,0.6,0.5,0.6,40,4.0D,3,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,22,O2,0.6,0.45,0.5,40,4.0D,3,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,carbon_steel,25,O2,0.5,0.5,0.5,40,5.0D,3,0.7,1.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-6000w/
+6000,stainless_steel,1,N2,10,40,50,100,1.5S,0,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,2,N2,12,25,30,100,2.0S,-1,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,3,N2,12,15,18,100,2.5S,-1.5,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,4,N2,14,10,12,100,2.5S,-2,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,5,N2,14,7,8,100,3.0S,-2.5,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,6,N2,15,6,7,100,3.0S,-3,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,8,N2,15,3.5,3.8,100,3.0S,-4,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,10,N2,15,1.6,2,100,3.5S,-6,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,12,N2,16,1,1.2,100,3.5S,-7.5,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,14,N2,16,0.8,1,100,4.0S,-9,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,16,N2,18,0.5,0.6,100,4.0S,-10.5,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,18,N2,20,0.4,0.5,100,5.0S,-11,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,20,N2,20,0.2,0.35,100,5.0S,-12,0.5,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,22,N2/Air,16,0.45,0.45,100,6.0S,-13,0.5,0.5,Source model: MAX MFSC-6000W-100um,https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,stainless_steel,25,N2/Air,16,0.15,0.15,100,6.0S,5,0.5,0.5,Source model: MAX MFSC-6000W-100um,https://sbmlaserhelp.com/answers/stainless-steel-6000w/
+6000,aluminum,1,N2,12,30,45,100,1.5S,0,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,2,N2,12,20,25,100,2.0S,-1,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,3,N2,14,14,16,100,2.5S,-1.5,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,4,N2,14,8,10,100,2.5S,-2,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,5,N2,14,5,6,100,3.0S,-3,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,6,N2,16,3.5,4,100,3.0S,-3,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,8,N2,16,1.5,2,100,3.0S,-4,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,10,N2,18,1,1.2,100,3.5S,-4.5,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,12,N2,18,0.6,0.7,100,4.0S,-5,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,14,N2,18,0.4,0.6,100,4.0S,-5,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,16,N2,20,0.3,0.4,100,5.0S,-8,0.4,0.7,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,18,N2/Air,16,0.45,0.45,100,5.0S,-9,0.5,0.5,Source model: MAX MFSC-6000W-100um,https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,aluminum,20,N2/Air,16,0.35,0.35,100,5.0S,-10,0.5,0.5,Source model: MAX MFSC-6000W-100um,https://sbmlaserhelp.com/answers/aluminium-6000w/
+6000,brass,1,N2,12,30,40,100,1.5S,0,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,2,N2,12,18,20,100,2.0S,-1,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,3,N2,14,12,14,100,2.5S,-1,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,4,N2,14,8,9,100,3.0S,-1.5,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,5,N2,14,5,5.5,100,3.0S,-2,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,6,N2,16,3.2,3.8,100,3.0S,-2.5,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,8,N2,16,1.5,1.8,100,3.5S,-3,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,10,N2,16,0.8,1,100,3.5S,-3,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,12,N2,18,0.6,0.7,100,4.0S,-4,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,16,N2/Air,16,0.35,0.35,100,5.0S,-9,0.5,0.5,Source model: MAX MFSC-6000W-100um,https://sbmlaserhelp.com/answers/brass-6000w/
+6000,brass,20,N2/Air,16,0.15,0.15,100,5.0S,-10,0.5,0.5,Source model: MAX MFSC-6000W-100um,https://sbmlaserhelp.com/answers/brass-6000w/
+6000,copper,1,O2,14,25,30,100,2.0S,-0.5,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-6000w/
+6000,copper,2,O2,14,15,18,100,2.0S,-1,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-6000w/
+6000,copper,3,O2,12,8,10,100,2.0S,-2,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-6000w/
+6000,copper,4,O2,12,5,6,100,2.0S,-2,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-6000w/
+6000,copper,5,O2,10,3,4,100,2.5S,-3,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-6000w/
+6000,copper,6,O2,10,1.5,2,100,2.5S,-3,0.3,0.5,"Source model: RFL-6000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-6000w/
+6000,copper,8,O2,14,1.75,1.75,100,5.0S,-5,0.5,0.5,Source model: MAX MFSC-6000W-100um,https://sbmlaserhelp.com/answers/copper-6000w/
+8000,carbon_steel,1,N2/Air,12,40,50,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,2,N2/Air,12,25,30,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,3,N2/Air,13,20,25,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,4,N2/Air,13,15,18,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,5,N2/Air,13,10,12,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,6,N2/Air,13,8,9,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,8,O2,0.6,2.3,2.5,50,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,8,N2/Air,13,5,5.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,10,O2,0.6,2.3,2.3,75,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,12,O2,0.6,1.8,2,94,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,14,O2,0.6,1.6,1.8,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,16,O2,0.6,1.4,1.6,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,20,O2,0.6,1,1.2,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,22,O2,0.7,0.6,0.65,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,25,O2,0.7,0.3,0.45,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,30,O2,1.3,0.2,0.25,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,carbon_steel,40,O2,1.5,0.1,0.15,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+8000,stainless_steel,1,N2,10,40,50,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,1,Air,10,40,50,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,2,N2,12,30,35,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,2,Air,10,30,35,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,3,N2,13,20,24,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,3,Air,10,22,25,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,4,N2,12,15,18,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,4,Air,10,14,16,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,5,N2,15,9,10,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,5,Air,10,9,10,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,6,N2,8,7,8,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,6,Air,10,7,8,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,8,N2,7,4,5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,8,Air,10,5,5.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,10,N2,5,3,3.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,10,Air,10,3,3.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,12,N2,6,2,2.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,12,Air,10,2,2.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,14,N2,6,1.5,2,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,14,Air,10,1.5,2,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,16,N2,6,1,1.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,16,Air,10,0.8,1,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,18,N2,14,0.8,1,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,18,Air,10,0.7,0.8,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,20,N2,6,0.6,0.8,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,20,Air,10,0.6,0.7,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,25,N2,6,0.3,0.4,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,25,Air,10,0.4,0.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,30,N2,10,0.15,0.2,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,stainless_steel,30,Air,10,0.2,0.25,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+8000,aluminum,1,N2,12,30,40,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,2,N2,12,25,27,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,3,N2,12,15,18,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,4,N2,12,10,11,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,5,N2,14,7,8,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,6,N2,14,6,6.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,8,N2,14,2.5,3,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,10,N2,14,1,1.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,12,N2,14,0.8,1,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,14,N2,16,0.7,0.8,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,aluminum,16,N2,16,0.6,0.6,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+8000,brass,1,O2,14,25,30,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+8000,brass,2,O2,14,16,20,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+8000,brass,3,O2,14,12,14,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+8000,brass,4,O2,12,7,8,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+8000,brass,5,O2,12,4,5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+8000,brass,6,O2,12,2.5,3,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+8000,brass,8,O2,12,1,1.5,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+8000,brass,10,O2,12,0.5,0.7,100,,,,,"Source model: RFL-8000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,carbon_steel,1,N2/Air,12,40,45,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,2,N2/Air,12,30,35,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,3,N2/Air,13,25,30,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,4,N2/Air,13,18,20,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,5,N2/Air,13,13,15,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,6,N2/Air,13,10,12,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,8,N2/Air,13,7,8,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,10,O2,0.6,2,2.3,60,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,10,N2/Air,13,3.5,4.5,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,12,O2,0.6,1.8,2,75,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,14,O2,0.6,1.6,1.8,85,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,16,O2,0.6,1.4,1.6,95,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,18,O2,0.5,1.55,1.55,100,,,,,Source model: MAX MFSC-10000W-100um,https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,20,O2,0.6,1.2,1.4,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,22,O2,0.7,1,1.2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,25,O2,0.7,0.5,0.65,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,30,O2,1.3,0.3,0.35,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,35,O2,1,0.35,0.35,100,,,,,Source model: MAX MFSC-10000W-100um,https://sbmlaserhelp.com/answers/mild-steel/
+10000,carbon_steel,40,O2,1.5,0.2,0.2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+10000,stainless_steel,1,N2,10,45,50,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,1,Air,10,45,50,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,2,N2,12,35,40,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,2,Air,10,30,35,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,3,N2,13,25,30,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,3,Air,10,20,25,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,4,N2,12,18,20,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,4,Air,10,18,20,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,5,N2,15,12,15,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,5,Air,10,15,17,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,6,N2,8,8,9,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,6,Air,10,8,10,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,8,N2,7,5,6,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,8,Air,10,6,7,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,10,N2,5,3.5,4,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,10,Air,10,5,6,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,12,N2,6,2.5,3,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,12,Air,10,4,4.5,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,14,N2,6,2,2.5,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,14,Air,10,2.5,3,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,16,N2,6,1.6,2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,16,Air,10,1.8,2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,18,N2,14,1.2,1.5,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,18,Air,10,1.2,1.5,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,20,N2,6,1,1.2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,20,Air,10,1,1.2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,22,N2,16,1.2,1.2,100,,,,,Source model: MAX MFSC-10000W-100um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,25,N2,6,0.5,0.6,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,25,Air,10,0.5,0.6,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,30,N2,10,0.25,0.25,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,30,Air,10,0.25,0.4,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,35,N2,16,0.25,0.25,100,,,,,Source model: MAX MFSC-10000W-100um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+10000,stainless_steel,40,N2,15,0.15,0.15,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+10000,aluminum,1,N2,12,45,50,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,2,N2,12,25,30,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,3,N2,12,20,25,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,4,N2,12,18,20,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,5,N2,14,14,16,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,6,N2,14,8,9,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,8,N2,14,5,6,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,10,N2,14,4,4.5,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,12,N2,16,1.6,2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,14,N2,16,1.2,1.5,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,16,N2,16,1,1.2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,18,N2,16,0.8,1,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,20,N2,16,0.6,0.8,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,25,N2,16,0.5,0.6,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,30,N2,18,0.25,0.45,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,35,N2,16,0.25,0.25,100,,,,,Source model: MAX MFSC-10000W-100um (N2),https://sbmlaserhelp.com/answers/aluminium/
+10000,aluminum,40,N2,18,0.15,0.2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+10000,brass,1,N2,12,35,40,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,2,N2,12,22,27,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,3,N2,12,15,20,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,4,N2,12,12,15,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,5,N2,14,10,11,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,6,N2,14,6,7,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,8,N2,14,4,5,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,10,N2,14,3.5,4,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,12,N2,14,1.6,2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,14,N2,16,0.8,1,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,brass,16,N2,16,0.5,0.7,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+10000,copper,1,O2,14,25,30,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+10000,copper,2,O2,14,16,20,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+10000,copper,3,O2,14,12,15,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+10000,copper,4,O2,12,8,10,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+10000,copper,5,O2,12,5,6,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+10000,copper,6,O2,12,3.5,4,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+10000,copper,8,O2,12,1.5,2,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+10000,copper,10,O2,12,0.5,0.7,100,,,,,"Source model: RFL-10000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+12000,carbon_steel,1,N2/Air,12,50,60,100,1.5S,0,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,2,N2/Air,12,35,40,100,2.0S,0,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,3,N2/Air,13,28,33,100,2.0S,0,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,4,N2/Air,13,20,24,100,2.5S,0,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,5,N2/Air,13,15,18,100,2.5S,0,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,6,N2/Air,13,10,13,100,2.5S,0,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,8,N2/Air,13,7,10,100,3.0S,-1.5,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,10,O2,0.6,2,2.3,50,1.2E,6,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,10,N2/Air,13,6,6.5,100,4.0S,-3,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,12,O2,0.6,1.8,2,63,1.2E,7,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,14,O2,0.6,1.6,1.8,71,1.4E,7,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,16,O2,0.6,1.5,1.6,79,1.4E,8,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,18,O2,0.5,1.6,1.6,83,1.6D,12,0.6,0.6,"Source model: MAX MFSC-12000W-100um, power 10000W",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,20,O2,0.6,1.3,1.4,100,1.6E,8,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,22,O2,0.7,0.9,1,100,1.8E,9,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,25,O2,0.7,0.7,0.9,100,1.8E,11,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,30,O2,1.3,0.4,0.5,100,1.8E,11,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,35,O2,0.7,0.45,0.45,100,1.7S,15,0.3,0.3,Source model: MAX MFSC-12000W-100um,https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,carbon_steel,40,O2,1.5,0.25,0.3,100,1.8E,11.5,0.7,1.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel-12000w/
+12000,stainless_steel,1,N2,10,50,60,100,2.0S,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,1,Air,10,50,60,100,2.0S,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,2,N2,12,40,45,100,2.0S,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,2,Air,10,40,45,100,2.5S,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,3,N2,13,30,35,100,2.0S,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,3,Air,10,30,35,100,2.5S,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,4,N2,12,22,26,100,2.0S,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,4,Air,10,22,28,100,3.5B,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,5,N2,15,15,18,100,2.5S,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,5,Air,10,16,19,100,3.5B,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,6,N2,8,13,15,100,3.5B,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,6,Air,10,14,17,100,3.5B,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,8,N2,7,8,10,100,5.0B,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,8,Air,10,9,11,100,3.5B,0,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,10,N2,5,6.5,7.5,100,5.0B,-1,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,10,Air,10,7,8,100,3.5B,-1,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,12,N2,6,5,5.5,100,6.0B,-4,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,12,Air,10,5.5,6,100,5.0B,-4,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,14,N2,6,3,3.5,100,7.0B,-6,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,14,Air,10,3.5,4,100,5.0B,-6,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,16,N2,6,2,2.3,100,7.0B,-8,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,16,Air,10,2.2,2.4,100,5.0B,-8,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,18,N2,6,1.3,1.5,100,7.0B,-9,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,18,Air,10,1.3,1.6,100,5.0B,-9,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,20,N2,6,1.2,1.4,100,7.0B,-11,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,20,Air,10,1.2,1.5,100,5.0B,-11,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,22,N2/Air,16,1.3,1.3,100,5.0S,-13,0.5,0.5,Source model: MAX MFSC-12000W-100um,https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,25,N2,6,0.7,0.9,100,7.0B,-13,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,25,Air,10,0.7,1,100,5.0B,-13,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,30,N2,10,0.25,0.3,100,7.0B,7,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,30,Air,10,0.3,0.6,100,5.0B,-14,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,35,N2/Air,16,0.25,0.25,100,5.0S,7,0.5,0.5,Source model: MAX MFSC-12000W-100um,https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,stainless_steel,40,N2,15,0.15,0.2,100,7.0B,8,0.5,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel-12000w/
+12000,aluminum,1,N2,12,45,50,100,2.0S,0,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,2,N2,12,30,35,100,2.0S,-1,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,3,N2,12,20,25,100,2.0S,-1,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,4,N2,12,18,20,100,2.0S,-2,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,5,N2,14,14,16,100,2.5S,-3,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,6,N2,14,10,12,100,2.5S,-3,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,8,N2,14,6,8,100,2.5S,-4,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,10,N2,14,4,6,100,5.0B,-5,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,12,N2,16,2,3,100,5.0B,-5,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,14,N2,16,1.5,2.5,100,5.0B,-5,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,16,N2,16,1.3,2,100,5.0B,-5,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,18,N2,16,1,1.6,100,5.0B,-5,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,20,N2,16,0.8,1.2,100,7.0B,-5,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,25,N2,16,0.5,0.7,100,7.0B,-5,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,30,N2,18,0.25,0.3,100,7.0B,7,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,35,N2/Air,16,0.25,0.25,100,5.0S,7,0.5,0.5,Source model: MAX MFSC-12000W-100um,https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,aluminum,40,N2,18,0.15,0.2,100,7.0B,8,0.4,0.7,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium-12000w/
+12000,brass,1,N2,12,35,45,100,2.0S,0,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,2,N2,12,30,35,100,2.0S,-1,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,3,N2,12,18,22,100,2.0S,-1,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,4,N2,12,15,18,100,2.0S,-2,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,5,N2,14,12,15,100,2.5S,-3,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,6,N2,14,8,10,100,2.5S,-3,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,8,N2,14,5,7,100,2.5S,-4,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,10,N2,14,4,5,100,5.0B,-5,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,12,N2,14,1.8,2,100,5.0B,-5,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,14,N2,16,1.2,1.4,100,5.0B,-8,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,brass,16,N2,16,0.8,1,100,5.0B,-11,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass-12000w/
+12000,copper,1,O2,5,25,30,100,2.0S,-0.5,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-12000w/
+12000,copper,2,O2,5,20,25,100,2.0S,-1,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-12000w/
+12000,copper,3,O2,6,16,18,100,2.0S,-2,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-12000w/
+12000,copper,4,O2,8,10,12,100,2.0S,-3,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-12000w/
+12000,copper,5,O2,8,6,8,100,2.5S,-4.5,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-12000w/
+12000,copper,6,O2,8,4,5,100,2.5S,-5,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-12000w/
+12000,copper,8,O2,10,2,2.5,100,3.0S,-6,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-12000w/
+12000,copper,10,O2,12,1,1.2,100,4.0S,-8,0.3,0.5,"Source model: RFL-12000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper-12000w/
+15000,carbon_steel,1,N2/Air,10,50,60,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,2,N2/Air,10,45,48,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,3,N2/Air,12,30,38,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,4,N2/Air,12,26,29,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,5,N2/Air,12,20,23,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,6,N2/Air,12,17,19,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,8,N2/Air,12,10,12,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,10,O2,0.6,2,2.3,40,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,10,N2/Air,13,7,8,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,12,O2,0.6,1.8,2,50,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,12,N2/Air,13,5,6,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,14,O2,0.6,1.6,1.8,57,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,14,N2/Air,13,4.5,5.5,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,16,O2,0.6,1.5,1.6,63,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,16,N2/Air,13,3,3.5,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,20,O2,0.6,1.3,1.4,80,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,22,O2,0.7,1,1.2,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,25,O2,0.7,0.8,1,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,30,O2,0.8,0.6,0.7,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,40,O2,1.5,0.3,0.35,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,50,O2,1.6,0.2,0.25,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,carbon_steel,60,O2,1.8,0.18,0.2,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+15000,stainless_steel,1,N2,10,50,60,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,1,Air,10,50,60,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,2,N2,12,45,50,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,2,Air,10,45,50,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,3,N2,13,35,38,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,3,Air,10,35,38,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,4,N2,12,25,29,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,4,Air,10,25,29,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,5,N2,15,18,22,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,5,Air,10,18,22,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,6,N2,8,15,18,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,6,Air,10,15,18,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,8,N2,7,10,12,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,8,Air,10,10,12,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,10,N2,5,8,9,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,10,Air,10,8,9,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,12,N2,6,6,7,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,12,Air,10,6,7,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,14,N2,6,4,4.2,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,14,Air,10,4,4.5,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,16,N2,6,2.6,2.8,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,16,Air,10,2.9,3.1,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,18,N2,6,2,2.3,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,18,Air,10,2.2,2.4,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,20,N2,6,1.8,2,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,20,Air,10,1.9,2.1,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,25,N2,6,1,1.2,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,25,Air,10,1.2,1.4,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,30,N2,10,0.6,0.7,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,30,Air,10,0.8,1,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,35,Air,16,0.5,0.5,100,,,,,Source model: MAX MFMC-15000W-100um (Air),https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,40,N2,15,0.3,0.4,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,40,Air,12,0.4,0.5,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,50,N2,15,0.2,0.25,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,stainless_steel,50,Air,12,0.2,0.4,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+15000,aluminum,1,N2,12,48,52,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,2,N2,12,35,38,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,3,N2,12,25,27,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,4,N2,12,20,22,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,5,N2,14,15,17,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,6,N2,14,12,14,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,8,N2,14,8,9,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,10,N2,14,5,7,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,12,N2,16,2.5,3.5,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,14,N2,16,2,3,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,16,N2,16,1.5,2.5,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,18,N2,16,1.3,1.8,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,20,N2,18,0.8,1.2,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,25,N2,18,0.5,0.7,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,30,N2,20,0.4,0.5,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,40,N2,20,0.25,0.3,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,aluminum,50,N2,20,0.2,0.25,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+15000,brass,1,N2,12,38,40,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,2,N2,12,32,37,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,3,N2,12,20,24,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,4,N2,12,16,19,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,5,N2,14,13,16,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,6,N2,14,9,11,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,8,N2,14,6,8,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,10,N2,14,5,6,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,12,N2,14,2,2.2,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,14,N2,16,1.4,1.6,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,16,N2,18,1.2,1.3,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,18,N2,18,1,1.2,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,brass,20,N2,18,0.6,0.7,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+15000,copper,1,O2,5,25,30,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+15000,copper,2,O2,5,20,25,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+15000,copper,3,O2,6,18,20,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+15000,copper,4,O2,8,12,14,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+15000,copper,5,O2,8,8,9,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+15000,copper,6,O2,8,6,7,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+15000,copper,8,O2,10,2.5,3.5,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+15000,copper,10,O2,12,1.5,2,100,,,,,"Source model: RFL-15000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+20000,carbon_steel,1,N2/Air,16,70,70,100,3.5S,0,0.5,0.5,Source model: MAX MFMC-20000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,2,N2/Air,16,45,45,100,3.5S,0,0.5,0.5,Source model: MAX MFMC-20000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,3,N2/Air,16,40,40,100,3.5S,0,0.5,0.5,Source model: MAX MFMC-20000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,4,N2/Air,16,31.5,31.5,100,3.5S,-0.5,0.5,0.5,Source model: MAX MFMC-20000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,5,N2/Air,8,23,28,100,3.0S,0,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,6,N2/Air,8,18,20,100,3.0S,-0.5,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,8,N2/Air,8,14,16,100,3.0S,-1,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,10,O2,0.6,2,2.3,30,1.2E,8,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,10,N2/Air,8,9,12,100,3.5S,-1.5,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,12,O2,0.6,1.8,2,38,1.2E,9,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,12,N2/Air,8,8,10,100,3.5S,-2,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,14,O2,0.6,1.6,1.8,43,1.4E,10,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,14,N2/Air,8,6,8,100,4.0S,-3,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,16,O2,0.6,1.5,1.6,48,1.4E,11,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,16,N2/Air,8,5,6,100,5.0S,-4,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,18,N2/Air,10,3.2,4,100,6.0S,-6,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,20,O2,0.6,1.3,1.4,60,1.6E,12,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,20,N2/Air,10,2.7,3.2,100,6.0S,-8,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,22,O2,0.7,1.2,1.3,100,1.8E,12.5,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,25,O2,1,1.2,1.4,100,1.5SP,13,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,30,O2,1.2,1.2,1.3,100,1.5SP,13.5,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,35,O2,0.8,1.1,1.1,100,1.6S,14,0.3,0.3,Source model: MAX MFMC-20000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,40,O2,1.4,0.6,0.9,100,1.6SP,14,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,50,O2,1.6,0.2,0.3,100,1.8E,13,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,60,O2,1.6,0.2,0.25,100,1.8E,13.5,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,70,O2,1.7,0.18,0.2,100,1.8E,13.5,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,carbon_steel,80,O2,1.8,0.12,0.15,100,1.8E,14,0.7,1.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+20000,stainless_steel,1,N2,8,50,60,60,2.0S,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,1,Air,8,50,60,60,2.0S,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,2,N2,8,50,60,60,2.0S,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,2,Air,8,50,60,60,2.5S,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,3,N2,8,40,45,100,2.5S,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,3,Air,8,40,45,100,2.5S,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,4,N2,8,30,35,100,2.5S,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,4,Air,8,30,35,100,3.5B,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,5,N2,8,22,24,100,3.0S,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,5,Air,8,22,24,100,3.5B,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,6,N2,8,18,22,100,3.5B,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,6,Air,8,18,22,100,3.5B,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,8,N2,8,13,16,100,5.0B,-1,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,8,Air,10,13,16,100,3.5B,0,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,10,N2,8,10,12,100,5.0B,-1.5,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,10,Air,10,11,13,100,3.5B,-1.5,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,12,N2,8,8,10,100,6.0B,-2,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,12,Air,10,9,11,100,5.0B,-4,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,14,N2,8,6,8,100,6.0B,-4,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,14,Air,10,7,9,100,5.0B,-6,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,16,N2,8,5,6,100,6.0B,-5,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,16,Air,10,6,7,100,5.0B,-7,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,18,N2,8,3.2,4,100,6.0B,-6,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,18,Air,10,3.5,4.5,100,5.0B,-8,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,20,N2,12,3,3.2,100,6.0B,-7.5,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,20,Air,10,3.5,4.5,100,5.0B,-9,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,25,N2,12,1.5,2,100,7.0B,-12,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,25,Air,10,1.8,2.5,100,5.0B,-13,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,30,N2,12,1,1.2,100,7.0B,-16,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,30,Air,10,1.4,1.6,100,5.0B,-17,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,35,N2,16,0.65,0.65,100,7.0S,-17,0.5,0.5,Source model: MAX MFMC-20000W-150um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,40,N2,16,0.5,0.8,100,7.0B,-16,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,40,Air,16,0.5,0.8,100,7.0B,-16,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,50,N2,16,0.2,0.3,100,8.0B,11,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,50,Air,16,0.2,0.3,100,8.0B,-18,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,60,N2,20,0.15,0.2,100,8.0B,11,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,60,Air,20,0.15,0.2,100,8.0B,-20,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,70,N2,20,0.1,0.13,100,8.0B,11,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,70,Air,20,0.1,0.13,100,8.0B,-25,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,80,N2,20,0.08,0.1,100,8.0B,11,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,90,N2,20,0.05,0.06,100,8.0B,11,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,stainless_steel,100,N2,20,0.04,0.05,100,8.0B,11,0.5,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+20000,aluminum,1,N2,8,55,60,60,2.0S,0,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,2,N2,8,40,45,60,2.0S,-1,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,3,N2,10,30,35,100,2.5S,-1,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,4,N2,12,25,30,100,2.5S,-2,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,5,N2,14,18,20,100,3.0S,-3,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,6,N2,14,16,18,100,3.0S,-3,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,8,N2,14,10,12,100,3.5S,-4,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,10,N2,14,9,10,100,3.5S,-5,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,12,N2,16,5,6,100,5.0B,-6,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,14,N2,16,4,5,100,5.0B,-7,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,16,N2,16,3,4,100,5.0B,-7,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,18,N2,16,2,3,100,5.0B,-7,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,20,N2,18,1.5,2,100,6.0B,-7,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,25,N2,18,1,1.2,100,6.0B,-7.5,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,30,N2,20,0.8,1,100,7.0B,-7.5,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,40,N2,20,0.5,0.8,100,7.0B,-9,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,50,N2,20,0.4,0.6,100,8.0B,-9,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,aluminum,60,N2,20,0.2,0.3,100,8.0B,-9,0.4,0.7,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+20000,brass,1,N2,12,40,45,100,2.0S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,2,N2,12,35,40,100,2.0S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,3,N2,12,28,30,100,2.0S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,4,N2,12,19,22,100,2.5S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,5,N2,14,18,19,100,2.5S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,6,N2,14,12,15,100,3.0S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,8,N2,14,8,10,100,3.0S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,10,N2,14,7,8,100,5.0B,-1,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,12,N2,14,2.5,3.5,100,5.0B,-2,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,14,N2,16,2,2.5,100,5.0B,-3,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,16,N2,18,1.5,2,100,5.0B,-3,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,18,N2,18,1.2,1.5,100,5.0B,-4,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,brass,20,N2,18,0.8,1,100,6.0B,-5,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+20000,copper,1,O2,5,25,30,100,2.0S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+20000,copper,2,O2,5,25,30,100,2.0S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+20000,copper,3,O2,6,20,25,100,2.0S,0,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+20000,copper,4,O2,8,16,18,100,2.5S,-1,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+20000,copper,5,O2,8,10,12,100,2.5S,-1,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+20000,copper,6,O2,8,8,10,100,3.0S,-2,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+20000,copper,8,O2,10,4,6,100,3.0S,-3,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+20000,copper,10,O2,12,2,3.5,100,3.5S,-4,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+20000,copper,12,O2,12,2,2.5,100,3.5S,-5,0.3,0.5,"Source model: RFL-20000(100u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,carbon_steel,5,N2/Air,8,22,30,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,6,N2/Air,8,18,22,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,8,N2/Air,8,14,16,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,10,O2,0.6,2,2.3,20,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,10,N2/Air,8,12,15,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,12,O2,0.6,1.8,2,25,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,12,N2/Air,8,10,12,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,14,O2,0.6,1.6,1.8,28,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,14,N2/Air,8,8,10,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,16,O2,0.6,1.6,1.8,32,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,16,N2/Air,8,7,8,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,18,N2/Air,10,5.5,6,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,20,O2,0.6,1.5,1.6,40,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,20,N2/Air,10,4.5,5.5,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,22,O2,0.7,1.4,1.5,67,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,25,O2,1,1.2,1.4,67,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,25,N2/Air,10,2.8,3.2,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,30,O2,1.2,1.2,1.3,67,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,35,O2,1,1.15,1.15,57,,,,,"Source model: MAX MFMC-30000W-100um, power 17000W",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,40,O2,1.4,0.6,0.9,67,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,45,O2,1.2,0.8,0.8,93,,,,,"Source model: MAX MFMC-30000W-100um, power 28000W",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,50,O2,1.6,0.6,0.8,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,60,O2,1.6,0.2,0.25,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,70,O2,1.7,0.18,0.2,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,carbon_steel,80,O2,1.8,0.12,0.15,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/mild-steel/
+30000,stainless_steel,1,N2,8,50,60,40,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,1,Air,8,50,60,40,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,2,N2,8,50,60,40,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,2,Air,8,50,60,40,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,3,N2,8,40,50,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,3,Air,8,40,50,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,4,N2,8,35,40,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,4,Air,8,35,40,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,5,N2,8,25,30,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,5,Air,8,25,30,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,6,N2,8,22,25,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,6,Air,8,22,25,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,8,N2,8,18,22,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,8,Air,10,18,22,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,10,N2,8,13,16,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,10,Air,10,14,18,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,12,N2,8,10,12,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,12,Air,10,12,14,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,14,N2,8,8,10,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,14,Air,10,10,12,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,16,N2,8,7,8,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,16,Air,10,8,9,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,18,N2,8,6,7,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,18,Air,10,6,7,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,20,N2,12,4,5,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,20,Air,10,5,6,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,25,N2,12,2,2.5,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,25,Air,10,2.5,3,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,30,N2,12,1.2,2,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,30,Air,10,1.5,2,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,35,N2/Air,16,1.65,1.65,100,,,,,Source model: MAX MFMC-30000W-100um,https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,40,N2,16,0.6,0.8,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,40,Air,16,0.8,1,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,50,N2,16,0.2,0.3,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,50,Air,16,0.4,0.65,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,60,N2,20,0.15,0.2,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,60,Air,20,0.15,0.2,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,70,N2,20,0.1,0.13,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,70,Air,20,0.1,0.13,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,80,N2,20,0.08,0.1,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,90,N2,20,0.05,0.06,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,stainless_steel,100,N2,20,0.04,0.05,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/stainless-steel/
+30000,aluminum,1,N2,8,55,60,40,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,2,N2,8,40,45,40,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,3,N2,10,30,35,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,4,N2,12,25,30,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,5,N2,14,18,25,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,6,N2,14,18,20,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,8,N2,14,15,18,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,10,N2,14,12,15,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,12,N2,16,10,12,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,14,N2,16,8,10,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,16,N2,16,6,8,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,18,N2,16,3,4,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,20,N2,18,2,3,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,25,N2,18,1.5,2,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,30,N2,20,0.8,1,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,40,N2,20,0.5,0.8,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,50,N2,20,0.4,0.6,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,aluminum,60,N2,20,0.2,0.3,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/aluminium/
+30000,brass,1,N2,12,40,45,40,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,2,N2,12,35,40,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,3,N2,12,28,30,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,4,N2,12,20,25,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,5,N2,14,18,20,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,6,N2,14,15,18,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,8,N2,14,10,15,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,10,N2,14,8,10,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,12,N2,14,5,8,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,14,N2,16,3,5,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,16,N2,18,1.5,2,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,18,N2,18,1.2,1.5,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,brass,20,N2,18,0.8,1,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/brass/
+30000,copper,1,O2,5,25,30,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,copper,2,O2,5,25,30,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,copper,3,O2,6,20,25,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,copper,4,O2,8,18,20,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,copper,5,O2,8,15,18,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,copper,6,O2,8,10,15,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,copper,8,O2,10,6,10,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,copper,10,O2,12,2,3.5,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,copper,12,O2,12,2,2.5,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+30000,copper,14,O2,12,1.5,2,100,,,,,"Source model: RFL-30000(150u), Cutting head focal length: Collimating 100/Focal 200",https://sbmlaserhelp.com/answers/copper/
+40000,carbon_steel,5,N2/Air,8,28,32,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,6,N2/Air,8,25,28,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,8,N2/Air,8,22,24,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,10,O2,0.6,2,2.3,15,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,10,N2/Air,8,16,20,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,12,O2,0.6,1.8,2,19,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,12,N2/Air,8,14,17,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,14,O2,0.6,1.6,1.8,21,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,14,N2/Air,8,11,13,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,16,O2,0.6,1.6,1.8,24,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,16,N2/Air,8,8,9.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,18,N2/Air,8,7.5,8.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,20,O2,0.6,1.5,1.6,30,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,20,N2/Air,8,7,8,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,22,O2,0.7,1.4,1.5,45,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,25,O2,0.65,1.2,1.4,45,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,25,N2/Air,6,5,5.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,30,O2,0.6,1.2,1.3,45,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,30,N2/Air,6,3,4,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,35,N2/Air,16,2.25,2.25,100,,,,,"Source model: MAX MFMC-40000W-100um, Mixed gas (N2+Air)",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,40,O2,0.8,0.9,1.1,65,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,40,N2/Air,4,1.5,2,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,45,O2,1,0.9,0.9,85,,,,,"Source model: MAX MFMC-40000W-100um, power 34000W",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,50,O2,1.6,0.3,0.5,63,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,50,N2/Air,4,0.7,1,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,60,O2,1.5,0.6,0.8,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,70,O2,1.5,0.5,0.7,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,80,O2,1.6,0.4,0.6,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,90,O2,1.6,0.3,0.4,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,carbon_steel,100,O2,1.6,0.2,0.3,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/mild-steel/
+40000,stainless_steel,5,N2,8,25,30,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,5,Air,8,30,34,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,6,N2,8,22,25,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,6,Air,8,25,30,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,8,N2,8,20,23,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,8,Air,8,22,25,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,10,N2,8,16,21,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,10,Air,8,17,23,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,12,N2,8,12,14,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,12,Air,8,13,16,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,14,N2,8,10,12,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,14,Air,8,12,14,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,16,N2,8,9,11,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,16,Air,8,9,11.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,18,N2,8,8,9.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,18,Air,8,8,10,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,20,N2,8,7,8,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,20,Air,8,7,8.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,25,N2,8,4.5,5.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,25,Air,8,5,5.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,30,N2,8,3,4,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,30,Air,8,3.5,4.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,35,N2,16,2.25,2.25,100,,,,,"Source model: MAX MFMC-40000W-100um (N2, 2000Hz / 92%)",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,40,N2,8,1.5,2,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,40,Air,6,1.7,2.2,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,45,N2,16,0.23,0.23,100,,,,,"Source model: MAX MFMC-40000W-100um (N2, 200Hz / 40%)",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,50,N2,6,0.5,0.8,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,50,Air,6,0.7,1,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,60,N2,6,0.4,0.6,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,60,Air,5,0.4,0.6,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,70,N2,6,0.2,0.3,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,70,Air,5,0.3,0.4,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,80,N2,20,0.2,0.25,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,80,Air,5,0.25,0.3,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,90,N2,20,0.14,0.18,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,90,Air,5,0.2,0.25,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,100,N2,20,0.08,0.12,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,stainless_steel,100,Air,5,0.15,0.2,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/stainless-steel/
+40000,aluminum,5,N2,8,25,30,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,6,N2,8,20,25,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,8,N2,10,18,22,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,10,N2,12,14,17,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,12,N2,14,11,13,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,14,N2,14,9,11,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,16,N2,14,7,9,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,18,N2,14,5,7,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,20,N2,16,4,5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,25,N2,16,3,3.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,30,N2,16,2,3,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,35,Air,16,1.15,1.15,100,,,,,"Source model: MAX MFMC-40000W-100um (Air, 1000Hz / 65%)",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,40,N2,16,1,1.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,50,N2,18,0.4,0.6,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,60,N2,18,0.2,0.3,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,70,N2,20,0.2,0.25,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,80,N2,20,0.15,0.2,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,90,N2,20,0.12,0.15,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,aluminum,100,N2,20,0.08,0.1,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/aluminium/
+40000,brass,5,N2,14,25,30,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,6,N2,14,20,25,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,8,N2,14,18,22,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,10,N2,14,10,14,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,12,N2,14,8,11,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,14,N2,16,6,8,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,16,N2,18,5,7,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,18,N2,18,4,5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,20,N2,18,3,4,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,25,N2,18,2.5,3,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,brass,30,N2,18,2,2.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/brass/
+40000,copper,3,O2,6,20,25,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+40000,copper,4,O2,8,18,20,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+40000,copper,5,O2,8,15,18,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+40000,copper,6,O2,8,10,15,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+40000,copper,8,O2,10,6,10,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+40000,copper,10,O2,12,2,3.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+40000,copper,12,O2,12,2,2.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+40000,copper,14,O2,12,1.5,2,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+40000,copper,16,O2,12,1,1.5,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+40000,copper,20,O2,12,0.6,1,100,,,,,"Source model: RFL-40000(150u), Cutting head focal length: Collimating 100/Focal 300",https://sbmlaserhelp.com/answers/copper/
+50000,carbon_steel,8,N2/Air,16,26.5,26.5,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,10,N2/Air,16,20,20,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,12,N2/Air,16,17,17,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,16,N2/Air,16,12,12,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,20,N2/Air,16,8.5,8.5,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,25,N2/Air,16,6.25,6.25,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,30,N2/Air,16,4.25,4.25,100,,,,,"Source model: MAX MFMC-50000W-150um, (3500Hz / 98%)",https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,35,N2/Air,16,2.75,2.75,100,,,,,"Source model: MAX MFMC-50000W-150um, (3500Hz / 98%)",https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,40,N2/Air,16,2.25,2.25,100,,,,,"Source model: MAX MFMC-50000W-150um, Mixed gas (N2+O2)",https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,45,O2,1,1.05,1.05,60,,,,,"Source model: MAX MFMC-50000W-150um, power 30000W",https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,50,O2,1.2,1.65,1.65,90,,,,,"Source model: MAX MFMC-50000W-150um, Negative focus, power 45000W",https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,60,O2,1,1.65,1.65,100,,,,,"Source model: MAX MFMC-50000W-150um, Negative focus",https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,70,O2,0.8,1,1,100,,,,,"Source model: MAX MFMC-50000W-150um, Negative focus",https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,80,O2,1,0.75,0.75,100,,,,,"Source model: MAX MFMC-50000W-150um, Negative focus",https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,90,O2,1,0.55,0.55,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,100,O2,1,0.45,0.45,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+50000,carbon_steel,110,O2,1,0.35,0.35,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+50000,stainless_steel,8,N2,16,27.5,27.5,100,,,,,Source model: MAX MFMC-50000W-150um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,10,N2,16,20,20,100,,,,,Source model: MAX MFMC-50000W-150um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,12,N2,16,17,17,100,,,,,Source model: MAX MFMC-50000W-150um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,16,N2,16,13,13,100,,,,,Source model: MAX MFMC-50000W-150um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,20,N2,16,10,10,100,,,,,Source model: MAX MFMC-50000W-150um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,25,N2,16,6.5,6.5,100,,,,,Source model: MAX MFMC-50000W-150um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,30,N2,16,4.5,4.5,100,,,,,"Source model: MAX MFMC-50000W-150um (N2, 3500Hz / 98%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,35,N2,16,3.15,3.15,100,,,,,"Source model: MAX MFMC-50000W-150um (N2, 3500Hz / 97%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,40,N2,16,2.25,2.25,100,,,,,"Source model: MAX MFMC-50000W-150um (N2, 1500Hz / 95%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,45,N2,16,1.25,1.25,100,,,,,"Source model: MAX MFMC-50000W-150um (N2, 1500Hz / 92%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,50,N2,16,1.1,1.1,100,,,,,"Source model: MAX MFMC-50000W-150um (N2, 3000Hz / 99%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,60,N2/Air,16,0.15,0.15,50,,,,,"Source model: MAX MFMC-50000W-150um, power 25000W (200Hz / 35%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,65,N2,16,0.75,0.75,100,,,,,"Source model: MAX MFMC-50000W-150um (N2, 1000Hz / 95%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,70,N2,16,0.45,0.45,100,,,,,"Source model: MAX MFMC-50000W-150um (N2, 500Hz / 98%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,80,N2,16,0.14,0.14,100,,,,,"Source model: MAX MFMC-50000W-150um (N2, 150Hz / 45%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,90,N2/Air,16,0.12,0.12,72,,,,,"Source model: MAX MFMC-50000W-150um, power 36000W (150Hz / 40%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,100,N2/Air,16,0.09,0.09,80,,,,,"Source model: MAX MFMC-50000W-150um, power 40000W (150Hz / 45%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,stainless_steel,110,N2/Air,16,0.09,0.09,88,,,,,"Source model: MAX MFMC-50000W-150um, power 44000W (150Hz / 45%)",https://sbmlaserhelp.com/answers/stainless-steel/
+50000,aluminum,6,N2/Air,16,55,55,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,8,N2/Air,16,55,55,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,10,N2/Air,16,45,45,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,12,N2/Air,16,36,36,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,16,N2/Air,16,27,27,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,20,N2/Air,16,14.5,14.5,100,,,,,Source model: MAX MFMC-50000W-150um (1000Hz / 95%),https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,25,N2/Air,16,9,9,100,,,,,Source model: MAX MFMC-50000W-150um (1000Hz / 85%),https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,30,N2/Air,16,2.5,2.5,100,,,,,Source model: MAX MFMC-50000W-150um (1000Hz / 85%),https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,35,N2/Air,16,1.25,1.25,100,,,,,Source model: MAX MFMC-50000W-150um (1000Hz / 75%),https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,40,N2/Air,16,0.8,0.8,100,,,,,Source model: MAX MFMC-50000W-150um (1000Hz / 75%),https://sbmlaserhelp.com/answers/aluminium/
+50000,aluminum,50,N2/Air,16,0.25,0.25,48,,,,,"Source model: MAX MFMC-50000W-150um, power 24000W (200Hz / 40%)",https://sbmlaserhelp.com/answers/aluminium/
+50000,brass,6,N2/Air,16,27,27,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/brass/
+50000,brass,8,N2/Air,16,23.5,23.5,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/brass/
+50000,brass,10,N2/Air,16,18,18,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/brass/
+50000,brass,12,N2/Air,16,12.5,12.5,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/brass/
+50000,brass,16,N2/Air,16,8,8,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/brass/
+50000,brass,20,N2/Air,16,5,5,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/brass/
+50000,copper,6,O2,10,24,24,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/copper/
+50000,copper,8,O2,10,19,19,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/copper/
+50000,copper,10,O2,10,13.5,13.5,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/copper/
+50000,copper,12,O2,12,8,8,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/copper/
+50000,copper,16,O2,16,10,10,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/copper/
+50000,copper,20,O2,18,7.25,7.25,100,,,,,Source model: MAX MFMC-50000W-150um,https://sbmlaserhelp.com/answers/copper/
+60000,carbon_steel,10,Air,16,21,21,100,,,,,Source model: MAX MFMC-60000W-150um (Air),https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,12,Air,16,19,19,100,,,,,Source model: MAX MFMC-60000W-150um (Air),https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,16,O2,0.5,1.6,1.8,20,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,16,N2/O2/Air,4,13,14,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,18,O2,0.55,1.6,1.7,20,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,18,N2/O2/Air,4,11,12,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,20,O2,0.6,1.5,1.6,20,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,20,N2/O2/Air,4,9,10,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,25,O2,0.6,1.2,1.4,33,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,25,N2/O2/Air,4,6.5,7.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,30,O2,0.65,1.2,1.3,33,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,30,N2/O2/Air,4,4.5,5.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,35,O2,0.8,1.1,1.2,33,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,35,N2/O2/Air,3,3.5,4.4,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,40,O2,0.9,0.9,1.1,42,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,40,N2/O2/Air,3,2.8,3.4,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,45,O2,1.1,0.8,1,42,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,45,N2/O2/Air,3,2,2.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,50,O2,0.85,0.75,0.9,50,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,50,N2/O2/Air,3,1.5,2,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,60,O2,0.8,0.7,0.8,83,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,60,N2/O2/Air,3,1,1.4,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,70,O2,1.2,0.7,0.8,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,80,O2,1,0.6,0.7,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,100,O2,1,0.5,0.6,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,150,O2,1,0.17,0.17,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,160,O2,1.5,0.15,0.25,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,carbon_steel,200,O2,1.5,0.15,0.2,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/mild-steel/
+60000,stainless_steel,16,N2,8,13,14,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,18,N2,8,11,12,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,20,N2,8,9,10,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,25,N2,3,6.5,7.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,30,N2,3,5,6,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,35,N2,3,3.5,4.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,40,N2,4,3,3.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,45,N2/Air,16,2.65,2.65,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,50,N2,4,1.8,2.2,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,60,N2,3,1.3,1.6,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,70,N2,3,1,1.2,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,80,N2,3,0.6,0.8,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,90,N2,3,0.4,0.6,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,100,N2,3,0.3,0.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,110,N2/Air,16,0.1,0.1,73,,,,,"Source model: MAX MFMC-60000W-150um, power 44000W (150Hz / 45%)",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,stainless_steel,120,N2,3,0.1,0.15,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/stainless-steel/
+60000,aluminum,10,N2/Air,16,42.5,42.5,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,12,N2/Air,16,32.5,32.5,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,16,Air,8,13,14.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,18,Air,8,11,12.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,20,Air,8,9,10.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,25,Air,3,7,7.8,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,30,Air,3,5,6,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,35,Air,3,4,4.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,40,Air,3,3.2,4,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,50,Air,3,3,3.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,60,Air,3,1.8,2.2,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,70,Air,3,1,1.2,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,80,Air,3,0.7,0.8,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,90,Air,3,0.5,0.6,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,100,Air,3,0.4,0.5,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,120,Air,3,0.25,0.35,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,150,Air,3,0.15,0.2,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,aluminum,200,Air,5,0.05,0.1,100,,,,,"Source model: RFL-60000(150u), Cutting head focal length: Collimating 120/Focal 360",https://sbmlaserhelp.com/answers/aluminium/
+60000,brass,8,N2/Air,16,22.5,22.5,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/brass/
+60000,brass,10,N2/Air,16,19,19,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/brass/
+60000,brass,12,N2/Air,16,13,13,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/brass/
+60000,brass,16,N2/Air,16,8.5,8.5,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/brass/
+60000,brass,20,N2/Air,16,5.75,5.75,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/brass/
+60000,copper,8,O2,10,20,20,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/copper/
+60000,copper,10,O2,10,14,14,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/copper/
+60000,copper,12,O2,12,11.5,11.5,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/copper/
+60000,copper,16,O2,16,10.5,10.5,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/copper/
+60000,copper,20,O2,18,7.5,7.5,100,,,,,Source model: MAX MFMC-60000W-150um,https://sbmlaserhelp.com/answers/copper/
+80000,carbon_steel,10,Air,16,21,21,38,,,,,"Source model: MAX MFMC-80000W-150um (Air, power 30000W)",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,12,Air,16,19,19,63,,,,,"Source model: MAX MFMC-80000W-150um (Air, power 50000W)",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,16,O2,0.5,1.6,1.8,15,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,16,N2/O2/Air,4,14,16,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,18,O2,0.55,1.6,1.7,15,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,18,N2/O2/Air,4,12,14,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,20,O2,0.6,1.5,1.6,15,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,20,N2/O2/Air,4,10,12,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,25,O2,0.6,1.2,1.4,25,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,25,N2/O2/Air,4,8,9,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,30,O2,0.65,1.2,1.3,25,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,30,N2/O2/Air,4,7,8,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,35,O2,0.8,1.1,1.2,25,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,35,N2/O2/Air,3,5,6,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,40,O2,0.9,0.9,1.1,31,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,40,N2/O2/Air,3,4,5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,45,O2,1.1,0.8,1,31,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,45,N2/O2/Air,3,4,4.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,50,O2,0.85,0.75,0.9,38,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,50,N2/O2/Air,3,3,4,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,60,O2,0.8,0.7,0.8,63,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,60,N2/O2/Air,3,2,2.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,70,O2,1.2,0.7,0.8,70,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,80,O2,1,0.6,0.7,80,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,90,O2,1,0.5,0.5,100,,,,,Source model: MAX MFMC-80000W-150um,https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,100,O2,1,0.5,0.6,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,120,O2,1.1,0.45,0.45,100,,,,,"Source model: MAX MFMC-80000W-150um, Negative focus",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,150,O2,1.3,0.25,0.25,100,,,,,"Source model: MAX MFMC-80000W-150um, Negative focus",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,160,O2,1.5,0.15,0.25,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,carbon_steel,200,O2,1.5,0.15,0.2,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/mild-steel/
+80000,stainless_steel,16,N2,8,14,15,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,18,N2,8,12,13,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,20,N2,8,11,12,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,25,N2,3,9,10,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,30,N2,3,7,8,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,35,N2,3,4.5,5.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,40,N2,4,4,4.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,45,N2,16,3.75,3.75,100,,,,,Source model: MAX MFMC-80000W-150um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,50,N2,4,2.5,3,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,60,N2,3,1.6,2,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,70,N2,3,1,1.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,80,N2,3,0.8,1,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,90,N2,3,0.7,0.8,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,100,N2,3,0.5,0.7,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,110,N2,16,0.35,0.35,100,,,,,Source model: MAX MFMC-80000W-150um (N2),https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,120,N2,3,0.15,0.2,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/stainless-steel/
+80000,stainless_steel,140,Air,16,0.23,0.23,100,,,,,Source model: MAX MFMC-80000W-150um (Air),https://sbmlaserhelp.com/answers/stainless-steel/
+80000,aluminum,10,N2,16,45,45,100,,,,,Source model: MAX MFMC-80000W-150um (N2),https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,12,N2,16,35,35,100,,,,,Source model: MAX MFMC-80000W-150um (N2),https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,16,Air,8,14,16,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,18,Air,8,13,14,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,20,Air,8,12,13,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,25,Air,3,9,10.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,30,Air,3,7,8,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,35,Air,3,4.5,5.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,40,Air,3,4,4.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,50,Air,3,3,3.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,60,Air,3,1.8,2.2,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,70,Air,3,1,1.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,80,Air,3,0.8,1,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,90,Air,3,0.7,0.9,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,100,Air,3,0.6,0.75,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,120,Air,3,0.4,0.5,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,150,Air,3,0.2,0.3,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,aluminum,200,Air,5,0.1,0.15,100,,,,,"Source model: RFL-80000(150u), Cutting head focal length: Collimating 120/Focal  360",https://sbmlaserhelp.com/answers/aluminium/
+80000,brass,8,N2/Air,16,22.5,22.5,75,,,,,"Source model: MAX MFMC-80000W-150um, power 60000W",https://sbmlaserhelp.com/answers/brass/
+80000,brass,10,N2/Air,16,19,19,75,,,,,"Source model: MAX MFMC-80000W-150um, power 60000W",https://sbmlaserhelp.com/answers/brass/
+80000,brass,12,N2/Air,16,13,13,75,,,,,"Source model: MAX MFMC-80000W-150um, power 60000W",https://sbmlaserhelp.com/answers/brass/
+80000,brass,16,N2/Air,16,8.5,8.5,100,,,,,Source model: MAX MFMC-80000W-150um,https://sbmlaserhelp.com/answers/brass/
+80000,brass,20,N2/Air,16,6.5,6.5,100,,,,,Source model: MAX MFMC-80000W-150um,https://sbmlaserhelp.com/answers/brass/
+80000,copper,8,O2,10,20,20,75,,,,,"Source model: MAX MFMC-80000W-150um, power 60000W",https://sbmlaserhelp.com/answers/copper/
+80000,copper,10,O2,10,14,14,75,,,,,"Source model: MAX MFMC-80000W-150um, power 60000W",https://sbmlaserhelp.com/answers/copper/
+80000,copper,12,O2,10,12.5,12.5,75,,,,,"Source model: MAX MFMC-80000W-150um, power 60000W",https://sbmlaserhelp.com/answers/copper/
+80000,copper,16,O2,10,12,12,100,,,,,Source model: MAX MFMC-80000W-150um,https://sbmlaserhelp.com/answers/copper/
+80000,copper,20,O2,10,8,8,100,,,,,Source model: MAX MFMC-80000W-150um,https://sbmlaserhelp.com/answers/copper/

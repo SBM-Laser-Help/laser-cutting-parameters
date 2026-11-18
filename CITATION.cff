@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Fiber laser cutting parameters"
+authors:
+  - name: "SBM Laser Help"
+    website: "https://sbmlaserhelp.com/"
+license: CC-BY-4.0
+url: "https://sbmlaserhelp.com/answers/"
+keywords:
+  - fiber laser
+  - laser cutting
+  - cutting parameters
+  - sheet metal
+  - mild steel
+  - stainless steel
+  - aluminium
