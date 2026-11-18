@@ -58,4 +58,4 @@ Data: [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You
 
 ## About
 
-[SBM Laser Help](https://sbmlaserhelp.com/) is a helper for fiber laser cutting operators: cutting parameter tables, cut defect diagnosis from a photo, machine and chiller error codes, calculators and a free library of DXF drawings. Web, Android, iOS and Telegram, 12 languages. Made by the team behind [SBMachines](https://sbmlaser.com/).
+[SBM Laser Help](https://sbmlaserhelp.com/) is a helper for fiber laser cutting operators: cutting parameter tables, cut defect diagnosis from a photo, machine and chiller error codes, calculators and a free library of DXF drawings. Web, Android, iOS and Telegram, 12 languages. Made by the team behind [SBMachines](https://sbmlaser.com/). Free DXF library catalog: [SBM-Laser-Help/free-dxf-files-catalog](https://github.com/SBM-Laser-Help/free-dxf-files-catalog).
